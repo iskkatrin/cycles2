@@ -74,6 +74,7 @@ public class Main {
         }
         }
 
+
         System.out.println("Задача 7");
 
         int friday = 6;
